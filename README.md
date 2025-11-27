@@ -1,8 +1,16 @@
 # Challenge_2025_CSharp
 
-Aplicativo console em C# para registrar e acompanhar atividades de saúde (minutos de exercício, litros de água ou horas de sono). 
+## Integrantes
+
+Beatriz Silva Pinheiro Rocha – RM553455
+Isabelle Toricelli da Silva - RM552806
+Luis Alberto Rocha Filho – RM553507
+Rafael Alves do Nascimento - RM553117 
 
 ## O que o programa faz
+
+O aplicativo console em C# para registrar e acompanhar atividades de saúde (minutos de exercício, litros de água ou horas de sono).
+
 - Armazena registros em arrays internos (string[], double[], DateTime[]) com redimensionamento automático via `Array.Resize`;
 - Lista registros cadastrados de forma organizada;
 - Calcula e exibe, por tipo de atividade, a soma total e a média dos valores;
@@ -26,5 +34,4 @@ Menu:
 ## Observações
 - Os dados são mantidos apenas em memória durante a execução (não há persistência em arquivo).
 
----  
-Se quiser, gero também um arquivo de exemplo com registros ou adiciono persistência em arquivo.
+
