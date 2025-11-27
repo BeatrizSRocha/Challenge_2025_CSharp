@@ -19,8 +19,8 @@ Menu:
 
 - Escolha a opção digitando o número e pressionando Enter.
 - Ao adicionar registro, informe:
-  - Tipo: texto (ex.: Exercício, Água, Sono) — obrigatório.
-  - Data: aceite `dd/MM/yyyy` ou `yyyy-MM-dd`. Enter = hoje.
+  - Tipo: texto (ex.: Exercício, Água, Sono) — obrigatório;
+  - Data: aceite `dd/MM/yyyy` ou `yyyy-MM-dd`;
   - Valor: número (não negativo), ex.: minutos, litros ou horas.
 
 ## Observações
