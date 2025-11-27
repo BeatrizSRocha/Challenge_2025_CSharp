@@ -20,6 +20,7 @@ O aplicativo console em C# para registrar e acompanhar atividades de saúde (min
 Ao executar o programa aparecerá um menu numerado:
 
 Menu:
+
 1 - Adicionar registro  
 2 - Listar registros  
 3 - Exibir estatísticas  
