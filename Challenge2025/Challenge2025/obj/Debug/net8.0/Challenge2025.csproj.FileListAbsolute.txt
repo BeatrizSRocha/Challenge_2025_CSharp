@@ -1,0 +1,14 @@
+C:\Users\biasr\Downloads\Challenge2025\Challenge2025\bin\Debug\net8.0\Challenge2025.exe
+C:\Users\biasr\Downloads\Challenge2025\Challenge2025\bin\Debug\net8.0\Challenge2025.deps.json
+C:\Users\biasr\Downloads\Challenge2025\Challenge2025\bin\Debug\net8.0\Challenge2025.runtimeconfig.json
+C:\Users\biasr\Downloads\Challenge2025\Challenge2025\bin\Debug\net8.0\Challenge2025.dll
+C:\Users\biasr\Downloads\Challenge2025\Challenge2025\bin\Debug\net8.0\Challenge2025.pdb
+C:\Users\biasr\Downloads\Challenge2025\Challenge2025\obj\Debug\net8.0\Challenge2025.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\biasr\Downloads\Challenge2025\Challenge2025\obj\Debug\net8.0\Challenge2025.AssemblyInfoInputs.cache
+C:\Users\biasr\Downloads\Challenge2025\Challenge2025\obj\Debug\net8.0\Challenge2025.AssemblyInfo.cs
+C:\Users\biasr\Downloads\Challenge2025\Challenge2025\obj\Debug\net8.0\Challenge2025.csproj.CoreCompileInputs.cache
+C:\Users\biasr\Downloads\Challenge2025\Challenge2025\obj\Debug\net8.0\Challenge2025.dll
+C:\Users\biasr\Downloads\Challenge2025\Challenge2025\obj\Debug\net8.0\refint\Challenge2025.dll
+C:\Users\biasr\Downloads\Challenge2025\Challenge2025\obj\Debug\net8.0\Challenge2025.pdb
+C:\Users\biasr\Downloads\Challenge2025\Challenge2025\obj\Debug\net8.0\Challenge2025.genruntimeconfig.cache
+C:\Users\biasr\Downloads\Challenge2025\Challenge2025\obj\Debug\net8.0\ref\Challenge2025.dll
