@@ -1,6 +1,6 @@
 # Challenge_2025_CSharp
 
-Aplicativo console em C# para registrar e acompanhar atividades de saúde (minutos de exercício, litros de água, horas de sono). 
+Aplicativo console em C# para registrar e acompanhar atividades de saúde (minutos de exercício, litros de água ou horas de sono). 
 
 ## O que o programa faz
 - Armazena registros em arrays internos (string[], double[], DateTime[]) com redimensionamento automático via `Array.Resize`;
