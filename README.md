@@ -2,10 +2,10 @@
 
 ## Integrantes
 
-Beatriz Silva Pinheiro Rocha – RM553455
-Isabelle Toricelli da Silva - RM552806
-Luis Alberto Rocha Filho – RM553507
-Rafael Alves do Nascimento - RM553117 
+- Beatriz Silva Pinheiro Rocha | RM553455
+- Isabelle Toricelli da Silva | RM552806
+- Luis Alberto Rocha Filho | RM553507
+- Rafael Alves do Nascimento | RM553117 
 
 ## O que o programa faz
 
